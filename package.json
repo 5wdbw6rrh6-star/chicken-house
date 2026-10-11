@@ -1,0 +1,9 @@
+{
+  "name": "restaurant-system",
+  "version": "1.0.0",
+  "description": "نظام كاشير وفواتير ومتابعة الداخل والخارج لمطعم",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=16" },
+  "license": "MIT"
+}
